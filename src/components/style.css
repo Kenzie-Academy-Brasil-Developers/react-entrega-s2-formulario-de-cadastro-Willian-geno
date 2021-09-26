@@ -1,0 +1,33 @@
+body{
+    background-color: #4e5055;
+}
+form{
+    margin-left: 22.5%;
+    margin-top: 13%;
+    background-color: rgb(255, 255, 255) ;
+    
+    border-style: solid;
+    border-color: #c4c4c4;
+
+    width: 55vw;
+    height: 55vh;
+}
+
+input{
+    width: 60%;
+    height: 5vh;
+
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+}
+
+button{
+    margin-top: 3%;
+}
+
+p{
+    font-size: 9px;
+    margin:0px;
+    color: red;
+}
+
